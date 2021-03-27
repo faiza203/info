@@ -5,7 +5,7 @@ const { commitChanges } = require("./helpers/gitOps");
 // ------------
 
 (async () => {
-  for (let index = 0; index < 330; index++) {
+  for (let index = 0; index < 200; index++) {
     await setSystemTime(1);
     const myRandomNumber = Math.floor(Math.random() * (30 - 1 + 1)) + 1;
     for (let innerIndex = 0; innerIndex <= myRandomNumber; innerIndex++) {
