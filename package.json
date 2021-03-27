@@ -1,0 +1,23 @@
+{
+  "name": "lighter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammy-bajwa/lighter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammy-bajwa/lighter/issues"
+  },
+  "homepage": "https://github.com/ammy-bajwa/lighter#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
